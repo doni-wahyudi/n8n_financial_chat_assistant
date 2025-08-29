@@ -1,0 +1,1 @@
+# n8n_financial_chat_assistant
